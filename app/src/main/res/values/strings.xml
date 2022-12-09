@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JetPak</string>
+    <string name="green_box">ГРИФФИНДОР</string>
+    <string name="this_is_a_box">Здесь Вас научат магии</string>
+    <string name="go_back">Вернись назад</string>
+    <string name="open_secret">Вход в тайную комнату</string>
+    <string name="generate_number">Узнай свое магическое число</string>
+    <string name="this_is_a_secret_place">This is a secret place</string>
+    <string name="close_secret">Вернись назад</string>
+    <string name="close_the_whole_box">Ты можешь сменить факультет</string>
+    <string name="yellow_box">СЛИЗЕРИН</string>
+</resources>
